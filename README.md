@@ -32,7 +32,7 @@ This project solves a real-world problem of optimizing a bakery-shopping itinera
 ## Graph Structure
 The graph includes 7 vertices (bakeries) with the following edges and weights:
 
-![Used Graph ](D:\CSE\3.1\CSE306\Project\Project Graph.png)
+![Used Graph ](https://github.com/AponGhosh/Prims-Algorithm-for-MST-Optimization/blob/main/Prims-Algorithm-for-MST-Optimization-Graph.png)
 
 ## Clone the repository:
    ```bash
