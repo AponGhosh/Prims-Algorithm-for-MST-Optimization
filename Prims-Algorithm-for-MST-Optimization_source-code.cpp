@@ -1,11 +1,3 @@
-/* CSE 306 - Algorithms Lab - Section: 01
-Complex Engineering Project
-Group No. 4
-
-Problem Statement: On our way to Officers Club, Baily Road from ULAB Research Building, we plan to visit all bakery shops but we are short on time. Therefore, we are to develop a program to make our itinerary work.
-
-The Minimum Spanning Tree will be determined through the Prim's Algorithm
-*/
 
 #include <bits/stdc++.h>
 using namespace std;
